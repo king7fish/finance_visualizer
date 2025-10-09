@@ -1,9 +1,0 @@
-streamlit
-pandas
-plotly
-openpyxl
-python-dateutil
-kaleido
-python-pptx
-python-docx
-requests
